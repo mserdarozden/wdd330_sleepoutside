@@ -207,7 +207,6 @@ button {
   flex-direction: row;
   justify-content: center;
   margin: 1rem;
-  
 }
 
 .product-icons p {
@@ -217,7 +216,6 @@ button {
   margin: 0;
   text-align: center;
   padding: 1rem;
-  
 }
 
 @media screen and (min-width: 500px) {
